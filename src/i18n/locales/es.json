@@ -1,0 +1,9 @@
+{
+  "title": "Personajes de Rick and Morty",
+  "characters": {
+    "name": "Nombre",
+    "status": "Estado",
+    "type": "Tipo",
+    "image": "Imagen"
+  }
+}

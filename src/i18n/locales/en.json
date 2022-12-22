@@ -1,0 +1,9 @@
+{
+  "title": "Rick and Morty Characters",
+  "characters": {
+    "name": "Name",
+    "status": "Status",
+    "type": "Type",
+    "image": "Image"
+  }
+}
